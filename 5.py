@@ -29,16 +29,3 @@ asus=Pc()
 asus.mb=Motherboard("華碩")
 asus.kb=Keyboard(104)
 asus.mn=Monitor(27)
-
-
-
-
-
-
-
-
-
-
-
-
-
